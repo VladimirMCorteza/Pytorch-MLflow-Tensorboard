@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vladimir/PycharmProjects/pytorchTensorboardMLflow/mlruns/0/90f02488153247d0a9ba9de8a2821635/artifacts
+end_time: 1642778616803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 90f02488153247d0a9ba9de8a2821635
+run_uuid: 90f02488153247d0a9ba9de8a2821635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642778478202
+status: 3
+tags: []
+user_id: vladimir
